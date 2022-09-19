@@ -1,7 +1,6 @@
-## Created the UI with
-- NextJs
-- ChakraUI
+## Created the UI with NextJS and Chakra UI from a figma design
 - URL https://saadsaif-next-chakra-ui-pricing.netlify.app/
+- Figma File https://www.figma.com/file/2UvLO274B9TNdsChCIC0hi/Pricing-UI?node-id=2%3A69
 - Took almost 4 hours
 
 #### Desktop
